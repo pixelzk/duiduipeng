@@ -1,0 +1,7 @@
+{
+  "name": "Integrity Match: Voice & Touch",
+  "description": "A Chinese-style couplet matching game focusing on integrity themes, featuring AI voice recognition for gameplay.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
